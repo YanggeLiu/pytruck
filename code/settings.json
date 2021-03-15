@@ -1,0 +1,14 @@
+{
+    "radar": {
+        "port": "/dev/ttyAMA0",
+        "baudrate": 115200
+    },
+    "uno": {
+        "port": "/dev/ttyACM0",
+        "baudrate": 115200
+    },
+    "uwb": {
+        "port": "/dev/ttyUSB0",
+        "baudrate": 115200
+    }
+}
