@@ -20,4 +20,4 @@ PRs accepted.
 
 ## License
 
-MIT © Richard McRichface
+MIT © Yangge Liu
